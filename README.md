@@ -16,4 +16,4 @@ The code requires the `biopython` and `matplotlib` modules:
 
 From the terminal use the following command to generate the read quality diagnostic plot:
 
-`python qcheck.py data/SRR622461_2.fastq data/SRR622461_2.fastq`
+`python qcheck.py data/SRR622461_1.fastq data/SRR622461_2.fastq`
